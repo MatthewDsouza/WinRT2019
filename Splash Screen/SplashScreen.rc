@@ -1,0 +1,6 @@
+# include <windows.h>
+#include "SplashScreen.h"
+
+MY_ICON ICON ic.ico
+MY_ABC BITMAP tiger.bmp
+
