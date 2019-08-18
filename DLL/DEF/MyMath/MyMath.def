@@ -1,0 +1,6 @@
+LIBRARY MyMath
+EXPORTS 
+		MakeSquare
+
+
+
